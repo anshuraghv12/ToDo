@@ -23,10 +23,18 @@ git clone https://github.com/your-username/todo-list-react-app.git
 ```
 
 #### Navigate to the project directory:
+```bash
 cd todo-list-react-app
+```
 
 ##### Install dependencies:
+
+```bash
 npm install
+```
 
 ###### Start the development server:
+
+```bash
 npm run dev
+```
