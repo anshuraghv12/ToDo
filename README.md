@@ -19,7 +19,7 @@ Ensure you have the following installed on your machine:
 First, clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/todo-list-react-app.git
+git clone https://github.com/anshuraghv12/todo-list-react-app.git
 ```
 
 #### Navigate to the project directory:
